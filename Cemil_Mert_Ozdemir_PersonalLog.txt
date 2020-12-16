@@ -1,0 +1,27 @@
+14 December - 20 December
+Cemil Mert Özdemir
+21803303
+
+Main Menu
++ For main menu i have added buttons in for activity transitions.
++ Added only one listener so far. (Other will be added this week)
++ I have added the listener to java page and i have created the java page.
++ Not yet added the background. (Will be added this week
+
+Java page
++ Have designed and aligned buttons in java page.
++ Some buttons have unique properties ( level 2 is disabled until level 1 is answered correctly)
++ Added background to java page
++ Added all of the levels in buttons (didn't create the pages for it. will implement later)
++ Added image to buttons that are not availabe ( will be availabe when player proceeds)
+
+Level Page
++ Added level page also
++ Added question string and designed according to it
++ Added a temporary true answer in order to test the enable/disable
++ Have 4 choices
++ Will implement edit text questions later
+
+
+
+
