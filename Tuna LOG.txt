@@ -1,0 +1,1 @@
+I have written 20 quiz questions with its answers and quiz classes ,which will be implemented later to the other classes.
