@@ -1,3 +1,4 @@
 Arda barış örtlek - Decided to take on database issues
 Cemil Mert Özdemir - Decided to code menu page
 Hüseyin Uzun
+Egemen Öztürk - Decided to code splash screen while launching the app
