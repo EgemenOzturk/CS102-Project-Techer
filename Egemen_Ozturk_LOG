@@ -1,5 +1,19 @@
+14-21 December 2020
+
 - Created an animation for the string on splash screen
 - Created an animation for the logo of our project
 - Done Splash Screen Lay-out while the app is launched
 - Changed the icon of the app in Android Menu
 - Designed the Splash Screen to get into the Main Menu Page
+
+21-28 December 2020
+
+- Created & Designed win_layout                        when the user answer correct
+- Created & Designed lose_layout                       when the user answer false
+- Created & Designed welcome layout                    when the user launches the app before reaching the main menu
+- Created & Designed java_layout                       when the user clicks the Java Page on Main Menu
+- Created & Designed Hardware_layout                   when the user clicks the Hardware Page on Main Menu
+- Created & Designed java_achievement_layout x5        when the user achieves a trophy on Java Page for each section ( 1 to 5 )
+- Created & Designed hardware_achievement_layout x3    when the user achieves a trophy on Hardware Page for each section ( 1 to 3 )
+- Created & Designed lose_progress_layout              when the user press back button on either Java or Hardware Page, it warns the user about losing the progress if they leave
+- Created & Designed achievement_question_layout       when the user reaches the question 5 for each section, it reminds that upcoming question will be achievement question.
