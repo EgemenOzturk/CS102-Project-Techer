@@ -1,7 +1,10 @@
+13 - 20 December
 - I have selected Firebase as our applications database
 - I have implemented authentication and realtime functions of database
 - I have designed demo Login and Register pages
 - I have created Forum page where users can ask their questions and get help from other users
+20 - 27 December
 - I have completed the functions of Forum Page
 - I have completed the Login and Register pages
-- I connected features of application to database
+- I connected questions and achievements to database
+
